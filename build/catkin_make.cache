@@ -1,0 +1,2 @@
+LeGO-LOAM-master/LeGO-LOAM:LeGO-LOAM-master/cloud_msgs:lslidar_c16-master/lslidar_c16:lslidar_c16-master/lslidar_c16_decoder:lslidar_c16-master/lslidar_c16_driver:lslidar_c16-master/lslidar_c16_msgs
+-DCATKIN_DEVEL_PREFIX=/home/geek330/lslidar_c16_lego_loam/devel -DCMAKE_INSTALL_PREFIX=/home/geek330/lslidar_c16_lego_loam/install -G Unix Makefiles
