@@ -1,2 +1,2 @@
-# lidar_driver
-用于启动实验室雷达的驱动(drivers for rslidar_m1 and lslidar_c16)
+# lslidar_c16_lego_loam
+用于启动实验室镭神16线雷达的驱动并运用lego-loam在线建图
